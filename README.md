@@ -41,45 +41,104 @@ Identificação e certificação das competências interdisciplinares através d
 
 - **Campos Obrigatórios para Anotação de Responsabilidade Técnica (ART)**
 
-    Para garantir consistência e conformidade nas Anotações de Responsabilidade Técnica (ARTs) emitidas pelos profissionais registrados, os seguintes campos são considerados essenciais:
+Para garantir consistência e conformidade nas Anotações de Responsabilidade Técnica (ARTs) emitidas pelos profissionais registrados, os seguintes campos serão propostos:
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
 
-    - **Formulário Principal da ART**
-        
-    1. **Dados do Profissional**
-       - Nome completo
-       - Número de registro no CREA
-       - CPF
-       - Endereço completo
-       - Telefone de contato
-       - E-mail
+1. **Formulário Principal da ART**
+   
+    - **Dados do Profissional**
+      - Nome completo
+      - Número de registro no CREA
+      - CPF
+      - Endereço completo
+      - Telefone de contato
+      - E-mail
 
-    2. **Dados do Contratante**
-       - Nome/Razão Social
-       - CPF/CNPJ
-       - Endereço completo
-       - Telefone de contato
-       - E-mail (se aplicável)
+    - **Dados do Contratante**
+      - Nome/Razão Social
+      - CPF/CNPJ
+      - Endereço completo
+      - Telefone de contato
+      - E-mail (se aplicável)
 
-    3. **Descrição do Serviço**
-       - Descrição detalhada do serviço técnico a ser realizado
-       - Especificações técnicas relevantes
+    - **Descrição do Serviço**
+      - Descrição detalhada do serviço técnico a ser realizado
+      - Especificações técnicas relevantes
 
-    4. **Local da Execução do Serviço**
-       - Endereço completo onde o serviço será executado
+    - **Local da Execução do Serviço**
+      - Endereço completo onde o serviço será executado
 
-    5. **Data de Início e Término do Serviço**
-       - Data prevista para início e término do serviço técnico
+    - **Data de Início e Término do Serviço**
+      - Data prevista para início e término do serviço técnico
 
-    6. **Assinatura e Responsabilidade**
-       - Assinatura digital ou eletrônica do profissional responsável pela execução do serviço
+    - **Assinatura e Responsabilidade**
+      - Assinatura digital ou eletrônica do profissional responsável pela execução do serviço
 
-    7. **Registro da ART**
-       - Número da ART gerado pelo sistema
-       - Data de emissão da ART
+    - **Registro da ART**
+      - Número da ART gerado pelo sistema
+      - Data de emissão da ART
 
-    - **Formulário Específico por Área Profissional**
+  </td>
 
-        Além do formulário principal com os dados obrigatórios, serão criados campos específicos nos formulários para cada área profissional (Engenharia Civil, Engenharia Ambiental, Agronomia, etc.). Os detalhes dos campos específicos serão implementados de forma a garantir consistência e permitir que diferentes formações possam exercer uma mesma função.
+  <td valign="top" width="50%">
+
+2. **Formulário Específico por Área Profissional**
+
+    - **Competência: Gestão de Projetos**
+      - **Engenharia Civil:**
+        - Planejamento e execução de obras civis, gerenciamento de cronogramas, gestão de recursos humanos e materiais.
+      - **Engenharia Elétrica:**
+        - Gestão de projetos de instalações elétricas industriais e prediais, coordenação de equipes técnicas, elaboração de planos de manutenção.
+      - **Engenharia de Produção:**
+        - Gestão de projetos industriais, otimização de processos produtivos, controle de qualidade e garantia da produção.
+
+    - **Competência: Análise de Dados e Modelagem Estatística**
+      - **Engenharia Elétrica:**
+        - Análise de dados de consumo elétrico, modelagem de sistemas de distribuição de energia, previsão de demanda energética.
+      - **Engenharia Ambiental:**
+        - Análise de dados ambientais para avaliação de impacto, modelagem de dispersão de poluentes, gestão de recursos hídricos.
+      - **Engenharia de Computação:**
+        - Análise de big data, desenvolvimento de algoritmos para aprendizado de máquina, modelagem estatística avançada.
+
+    - **Competência: Sustentabilidade Ambiental**
+      - **Engenharia Ambiental:**
+        - Avaliação de impacto ambiental, elaboração de estudos de impacto ambiental (EIA/RIMA), planejamento e gestão de áreas protegidas.
+      - **Engenharia Civil:**
+        - Projeto e execução de edifícios sustentáveis, uso de materiais de construção ecoeficientes, gestão de resíduos de construção civil.
+      - **Agronomia:**
+        - Práticas agrícolas sustentáveis, manejo integrado de pragas e doenças, conservação de solos e água.
+
+    - **Competência: Gestão de Qualidade e Normatização**
+      - **Engenharia de Produção:**
+        - Implementação de sistemas de gestão da qualidade (ISO 9001), controle estatístico de processos (CEP), auditorias internas.
+      - **Engenharia Química:**
+        - Controle de qualidade em processos industriais químicos, certificação de produtos conforme normas técnicas, gestão ambiental.
+      - **Administração de Empresas:**
+        - Gestão da qualidade em serviços, aplicação de ferramentas de melhoria contínua (Kaizen, Lean Six Sigma), auditoria de processos.
+
+  </td>
+  </tr>
+</table>
+
+
+Além do formulário principal com os dados obrigatórios, serão criados campos específicos nos formulários para cada área profissional (Engenharia Civil, Engenharia Elétrica, Engenharia Ambiental, etc.). Os detalhes dos campos específicos serão implementados de forma a garantir consistência e permitir que diferentes formações possam exercer uma mesma função caso o curso possua competências compatíveis.
+
+### Exemplos na Prática:
+
+- **Exemplo 1:** Um engenheiro civil com experiência em planejamento e gestão de obras pode aplicar suas competências na coordenação de projetos de infraestrutura elétrica, integrando diferentes sistemas de engenharia em um projeto de construção complexo.
+
+- **Exemplo 2:** Um engenheiro ambiental especializado em avaliação de impacto ambiental pode trabalhar em conjunto com engenheiros civis na elaboração de projetos sustentáveis de edificações, garantindo que os impactos ambientais sejam minimizados desde a fase de concepção até a execução.
+
+- **Exemplo 3:** Um engenheiro de produção com habilidades em controle de qualidade pode atuar na gestão de processos industriais em uma indústria química, aplicando normas de segurança e qualidade específicas do setor, assim como um engenheiro químico faria.
+
+
+### Observações:
+
+- Cada um desses formulários específicos conteria campos adicionais que são relevantes para a área de atuação específica, como normas técnicas, tipos de materiais utilizados, tecnologias específicas e exigências regionais.
+- A ideia é que esses formulários complementem o formulário principal da ART (Anotação de Responsabilidade Técnica), permitindo que profissionais de diferentes áreas possam detalhar as informações necessárias para cada tipo de projeto ou atividade técnica específica.
+    
 
 ## 3.3. Registro Flexível e Unificado
 
