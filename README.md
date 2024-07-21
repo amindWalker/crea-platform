@@ -85,7 +85,7 @@ Para garantir consistência e conformidade nas Anotações de Responsabilidade T
   <td valign="top" width="50%">
 
 2. **Formulário Específico por Área Profissional**
-
+    **Exemplo 1:**
     - **Competência: Gestão de Projetos**
       - **Engenharia Civil:**
         - Planejamento e execução de obras civis, gerenciamento de cronogramas, gestão de recursos humanos e materiais.
@@ -94,6 +94,7 @@ Para garantir consistência e conformidade nas Anotações de Responsabilidade T
       - **Engenharia de Produção:**
         - Gestão de projetos industriais, otimização de processos produtivos, controle de qualidade e garantia da produção.
 
+    **Exemplo 2:**
     - **Competência: Análise de Dados e Modelagem Estatística**
       - **Engenharia Elétrica:**
         - Análise de dados de consumo elétrico, modelagem de sistemas de distribuição de energia, previsão de demanda energética.
@@ -102,6 +103,7 @@ Para garantir consistência e conformidade nas Anotações de Responsabilidade T
       - **Engenharia de Computação:**
         - Análise de big data, desenvolvimento de algoritmos para aprendizado de máquina, modelagem estatística avançada.
 
+    **Exemplo 3:**
     - **Competência: Sustentabilidade Ambiental**
       - **Engenharia Ambiental:**
         - Avaliação de impacto ambiental, elaboração de estudos de impacto ambiental (EIA/RIMA), planejamento e gestão de áreas protegidas.
@@ -110,6 +112,7 @@ Para garantir consistência e conformidade nas Anotações de Responsabilidade T
       - **Agronomia:**
         - Práticas agrícolas sustentáveis, manejo integrado de pragas e doenças, conservação de solos e água.
 
+    **Exemplo 4:**
     - **Competência: Gestão de Qualidade e Normatização**
       - **Engenharia de Produção:**
         - Implementação de sistemas de gestão da qualidade (ISO 9001), controle estatístico de processos (CEP), auditorias internas.
@@ -121,7 +124,6 @@ Para garantir consistência e conformidade nas Anotações de Responsabilidade T
   </td>
   </tr>
 </table>
-
 
 Além do formulário principal com os dados obrigatórios, serão criados campos específicos nos formulários para cada área profissional (Engenharia Civil, Engenharia Elétrica, Engenharia Ambiental, etc.). Os detalhes dos campos específicos serão implementados de forma a garantir consistência e permitir que diferentes formações possam exercer uma mesma função caso o curso possua competências compatíveis.
 
@@ -138,6 +140,7 @@ Além do formulário principal com os dados obrigatórios, serão criados campos
 
 - Cada um desses formulários específicos conteria campos adicionais que são relevantes para a área de atuação específica, como normas técnicas, tipos de materiais utilizados, tecnologias específicas e exigências regionais.
 - A ideia é que esses formulários complementem o formulário principal da ART (Anotação de Responsabilidade Técnica), permitindo que profissionais de diferentes áreas possam detalhar as informações necessárias para cada tipo de projeto ou atividade técnica específica.
+- Desde que essas experiências e títulos adicionais se enquadrem nas regras do sistema CONFEA CREA para adicionar atribuições a esse profissional que permita q ele exerça outras atividades que não a que a profissão principal esteja apta.
     
 
 ## 3.3. Registro Flexível e Unificado
