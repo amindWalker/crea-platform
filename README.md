@@ -43,45 +43,45 @@ Identificação e certificação das competências interdisciplinares através d
 
     Para garantir consistência e conformidade nas Anotações de Responsabilidade Técnica (ARTs) emitidas pelos profissionais registrados, os seguintes campos são considerados essenciais:
 
+    - **Formulário Principal da ART**
+        
+        Usando os campos essenciais, podemos garantir a uniformidade e consistência nas informações fornecidas.
+
     1. **Dados do Profissional**
-    - Nome completo
-    - Número de registro no CREA
-    - CPF
-    - Endereço completo
-    - Telefone de contato
-    - E-mail
+       - Nome completo
+       - Número de registro no CREA
+       - CPF
+       - Endereço completo
+       - Telefone de contato
+       - E-mail
 
     2. **Dados do Contratante**
-    - Nome/Razão Social
-    - CPF/CNPJ
-    - Endereço completo
-    - Telefone de contato
-    - E-mail (se aplicável)
+       - Nome/Razão Social
+       - CPF/CNPJ
+       - Endereço completo
+       - Telefone de contato
+       - E-mail (se aplicável)
 
     3. **Descrição do Serviço**
-    - Descrição detalhada do serviço técnico a ser realizado
-    - Especificações técnicas relevantes
+       - Descrição detalhada do serviço técnico a ser realizado
+       - Especificações técnicas relevantes
 
     4. **Local da Execução do Serviço**
-    - Endereço completo onde o serviço será executado
+       - Endereço completo onde o serviço será executado
 
     5. **Data de Início e Término do Serviço**
-    - Data prevista para início e término do serviço técnico
+       - Data prevista para início e término do serviço técnico
 
     6. **Assinatura e Responsabilidade**
-    - Assinatura digital ou eletrônica do profissional responsável pela execução do serviço
+       - Assinatura digital ou eletrônica do profissional responsável pela execução do serviço
 
     7. **Registro da ART**
-    - Número da ART gerado pelo sistema
-    - Data de emissão da ART
-
-    - **Formulário Principal da ART**
-
-    O formulário principal conterá os campos essenciais comuns a todas as profissões registradas no CREA. Esses campos serão obrigatórios para todas as ARTs emitidas e garantirão a uniformidade e consistência nas informações fornecidas.
+       - Número da ART gerado pelo sistema
+       - Data de emissão da ART
 
     - **Formulário Específico por Área Profissional**
 
-    Além do formulário principal, será criado um conjunto de formulários específicos por área profissional (Engenharia Civil, Engenharia Ambiental, Agronomia, etc.). Cada formulário específico conterá campos adicionais que são específicos para a área de atuação do profissional.
+        Além do formulário principal com os dados obrigatórios, serão criados campos específicos nos formulários para cada área profissional (Engenharia Civil, Engenharia Ambiental, Agronomia, etc.). Os detalhes dos campos específicos serão implementados de forma a garantir consistência e permitir que diferentes formações possam exercer uma mesma função.
 
 ## 3.3. Registro Flexível e Unificado
 
