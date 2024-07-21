@@ -140,7 +140,7 @@ Além do formulário principal com os dados obrigatórios, serão criados campos
 
 - Cada um desses formulários específicos conteria campos adicionais que são relevantes para a área de atuação específica, como normas técnicas, tipos de materiais utilizados, tecnologias específicas e exigências regionais.
 - A ideia é que esses formulários complementem o formulário principal da ART (Anotação de Responsabilidade Técnica), permitindo que profissionais de diferentes áreas possam detalhar as informações necessárias para cada tipo de projeto ou atividade técnica específica.
-- Desde que essas experiências e títulos adicionais se enquadrem nas regras do sistema CONFEA CREA para adicionar atribuições a esse profissional que permita q ele exerça outras atividades que não a que a profissão principal esteja apta.
+- Desde que essas experiências e títulos adicionais estejam de acordo com as regras do sistema CONFEA/CREA para adicionar atribuições a esse profissional, permitindo-o exercer atividades além daquelas da profissão principal.
     
 
 ## 3.3. Registro Flexível e Unificado
