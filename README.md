@@ -29,11 +29,12 @@ Para atingir os objetivos mencionados, o projeto será dividido nas seguintes fa
 
 ## 3.2. Unificação das Interseções de Competências do CREA
 
-Atualmente, as "pontes" entre diferentes áreas de atuação no CREA são geralmente tratadas através da emissão de ARTs (Anotações de Responsabilidade Técnica) específicas para cada atividade realizada. Essas ARTs são emitidas pelos profissionais do CREA responsáveis pela execução de serviços técnicos, e cada profissional deve possuir registro específico na área correspondente à atividade que está sendo realizada.
-
-Para profissionais que desejam trabalhar fora da área de sua graduação em diferentes estados, a abordagem atual envolve solicitar o registro específico (ou "visto") no CREA da região onde o serviço será realizado. Isso é necessário porque cada CREA regional possui suas próprias regulamentações e normativas específicas, e o profissional deve estar registrado na área correspondente à atividade técnica que será exercida naquela região.
-
-Para unificar e facilitar a atuação de profissionais em áreas interdisciplinares ou fora de suas áreas de graduação, é possível implementar um sistema que reconheça e valide as competências e habilidades que são comuns entre diferentes áreas profissionais. 
+> [!IMPORTANT]
+> Atualmente, as "pontes" entre diferentes áreas de atuação no CREA são geralmente tratadas através da emissão de ARTs (Anotações de Responsabilidade Técnica) específicas para cada atividade realizada. Essas ARTs são emitidas pelos profissionais do CREA responsáveis pela execução de serviços técnicos, e cada profissional deve possuir registro específico na área correspondente à atividade que está sendo realizada.
+> 
+> Para profissionais que desejam trabalhar fora da área de sua graduação em diferentes estados, a abordagem atual envolve solicitar o registro específico (ou "visto") no CREA da região onde o serviço será realizado. Isso é necessário porque cada CREA regional possui suas próprias regulamentações e normativas específicas, e o profissional deve estar registrado na área correspondente à atividade técnica que será exercida naquela região.
+>
+> Para unificar e facilitar a atuação de profissionais em áreas interdisciplinares ou fora de suas áreas de graduação, é possível implementar um sistema que reconheça e valide as competências e habilidades que são comuns entre diferentes áreas profissionais. 
 
 ## 3.2.1. Reconhecimento de Competências Interdisciplinares
 
@@ -42,6 +43,7 @@ Identificação e certificação das competências interdisciplinares através d
 - **Campos Obrigatórios para Anotação de Responsabilidade Técnica (ART)**
 
 Para garantir consistência e conformidade nas Anotações de Responsabilidade Técnica (ARTs) emitidas pelos profissionais registrados, os seguintes campos serão propostos:
+
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
@@ -126,7 +128,14 @@ Para garantir consistência e conformidade nas Anotações de Responsabilidade T
   </tr>
 </table>
 
-Além do formulário principal com os dados obrigatórios, serão criados campos específicos nos formulários para cada área profissional (Engenharia Civil, Engenharia Elétrica, Engenharia Ambiental, etc.). Os detalhes dos campos específicos serão implementados de forma a garantir consistência e permitir que diferentes formações possam exercer uma mesma função caso o curso possua competências compatíveis.
+> [!NOTE]
+> Além do formulário principal com os dados obrigatórios, serão criados campos específicos nos formulários para cada área profissional (Engenharia Civil, Engenharia Elétrica, Engenharia Ambiental, etc.). Os detalhes dos campos específicos serão implementados de forma a garantir consistência e permitir que diferentes formações possam exercer uma mesma função caso o curso possua competências compatíveis.
+> ### Observações:
+>
+> - Cada um desses formulários específicos conteria campos adicionais que são relevantes para a área de atuação específica, como normas técnicas, tipos de materiais utilizados, tecnologias específicas e exigências regionais.
+> - A ideia é que esses formulários complementem o formulário principal da ART (Anotação de Responsabilidade Técnica), permitindo que profissionais de diferentes áreas possam detalhar as informações necessárias para cada tipo de projeto ou atividade técnica específica.
+> - Desde que essas experiências e títulos adicionais estejam de acordo com as regras do sistema CONFEA/CREA para adicionar atribuições a esse profissional, permitindo-o exercer atividades além daquelas da profissão principal.
+
 
 ### Exemplos na Prática:
 
@@ -135,13 +144,6 @@ Além do formulário principal com os dados obrigatórios, serão criados campos
 - **Exemplo 2:** Um engenheiro ambiental especializado em avaliação de impacto ambiental pode trabalhar em conjunto com engenheiros civis na elaboração de projetos sustentáveis de edificações, garantindo que os impactos ambientais sejam minimizados desde a fase de concepção até a execução.
 
 - **Exemplo 3:** Um engenheiro de produção com habilidades em controle de qualidade pode atuar na gestão de processos industriais em uma indústria química, aplicando normas de segurança e qualidade específicas do setor, assim como um engenheiro químico faria.
-
-
-### Observações:
-
-- Cada um desses formulários específicos conteria campos adicionais que são relevantes para a área de atuação específica, como normas técnicas, tipos de materiais utilizados, tecnologias específicas e exigências regionais.
-- A ideia é que esses formulários complementem o formulário principal da ART (Anotação de Responsabilidade Técnica), permitindo que profissionais de diferentes áreas possam detalhar as informações necessárias para cada tipo de projeto ou atividade técnica específica.
-- Desde que essas experiências e títulos adicionais estejam de acordo com as regras do sistema CONFEA/CREA para adicionar atribuições a esse profissional, permitindo-o exercer atividades além daquelas da profissão principal.
     
 
 ## 3.3. Registro Flexível e Unificado
