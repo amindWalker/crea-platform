@@ -85,6 +85,7 @@ Para garantir consistência e conformidade nas Anotações de Responsabilidade T
   <td valign="top" width="50%">
 
 2. **Formulário Específico por Área Profissional**
+
     **Exemplo 1:**
     - **Competência: Gestão de Projetos**
       - **Engenharia Civil:**
