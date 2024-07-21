@@ -45,8 +45,6 @@ Identificação e certificação das competências interdisciplinares através d
 
     - **Formulário Principal da ART**
         
-        Usando os campos essenciais, podemos garantir a uniformidade e consistência nas informações fornecidas.
-
     1. **Dados do Profissional**
        - Nome completo
        - Número de registro no CREA
