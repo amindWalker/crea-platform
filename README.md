@@ -136,14 +136,53 @@ Para garantir consistência e conformidade nas Anotações de Responsabilidade T
 > - A ideia é que esses formulários complementem o formulário principal da ART (Anotação de Responsabilidade Técnica), permitindo que profissionais de diferentes áreas possam detalhar as informações necessárias para cada tipo de projeto ou atividade técnica específica.
 > - Desde que essas experiências e títulos adicionais estejam de acordo com as regras do sistema CONFEA/CREA para adicionar atribuições a esse profissional, permitindo-o exercer atividades além daquelas da profissão principal.
 
-
 ### Exemplos na Prática:
 
-- **Exemplo 1:** Um engenheiro civil com experiência em planejamento e gestão de obras pode aplicar suas competências na coordenação de projetos de infraestrutura elétrica, integrando diferentes sistemas de engenharia em um projeto de construção complexo.
+- **Exemplo 1: Coordenação de Projetos de Infraestrutura Elétrica**
 
-- **Exemplo 2:** Um engenheiro ambiental especializado em avaliação de impacto ambiental pode trabalhar em conjunto com engenheiros civis na elaboração de projetos sustentáveis de edificações, garantindo que os impactos ambientais sejam minimizados desde a fase de concepção até a execução.
+  **Descrição:** Um engenheiro civil com experiência em planejamento e gestão de obras pode aplicar suas competências na coordenação de projetos de infraestrutura elétrica, integrando diferentes sistemas de engenharia em um projeto de construção complexo.
 
-- **Exemplo 3:** Um engenheiro de produção com habilidades em controle de qualidade pode atuar na gestão de processos industriais em uma indústria química, aplicando normas de segurança e qualidade específicas do setor, assim como um engenheiro químico faria.
+  **Estrutura e Detalhamento:**
+  - **Engenheiro civil:** Lidera o planejamento e a execução de obras de infraestrutura elétrica, coordenando equipes e garantindo a integração de diferentes sistemas de engenharia.
+  - **Engenheiro elétrico:** Desenvolve os projetos elétricos, especifica materiais e equipamentos, e supervisiona a instalação e testes dos sistemas elétricos.
+  - **Engenheiro de segurança:** Assegura que todas as etapas do projeto atendam às normas de segurança e saúde ocupacional.
+
+- **Exemplo 2: Projetos Sustentáveis de Edificações**
+
+  **Descrição:** Um engenheiro ambiental especializado em avaliação de impacto ambiental pode trabalhar em conjunto com engenheiros civis na elaboração de projetos sustentáveis de edificações, garantindo que os impactos ambientais sejam minimizados desde a fase de concepção até a execução.
+
+  **Estrutura e Detalhamento:**
+  - **Engenheiro ambiental:** Realiza estudos de impacto ambiental, propõe medidas de mitigação e garante a conformidade com as legislações ambientais.
+  - **Engenheiro civil:** Integra as soluções ambientais no projeto estrutural e de construção, otimizando o uso de recursos e materiais sustentáveis.
+  - **Arquiteto:** Desenha os projetos arquitetônicos com foco em eficiência energética e sustentabilidade, incorporando as recomendações dos engenheiros.
+
+- **Exemplo 3: Gestão de Processos Industriais em Indústria Química**
+
+  **Descrição:** Um engenheiro de produção com habilidades em controle de qualidade pode atuar na gestão de processos industriais em uma indústria química, aplicando normas de segurança e qualidade específicas do setor, assim como um engenheiro químico faria.
+
+  **Estrutura e Detalhamento:**
+  - **Engenheiro de produção:** Gerencia os processos produtivos, assegura a eficiência operacional e implementa sistemas de controle de qualidade.
+  - **Engenheiro químico:** Supervisiona a produção de produtos químicos, garantindo que os processos cumpram as especificações técnicas e regulatórias.
+  - **Engenheiro de segurança:** Avalia os riscos associados aos processos químicos e implementa medidas de segurança para proteger os trabalhadores e o meio ambiente.
+
+- **Exemplo 4: Recuperação de Margens de Rios**
+
+  **Descrição:** Recuperação de áreas afetadas por enchentes, estabilizando as margens dos rios e restaurando a biodiversidade.
+
+  **Estrutura e Detalhamento:**
+  - **Engenheiro civil:** Lidera a estabilização das margens de rios após enchentes, implementando obras de contenção para prevenir futuras inundações.
+  - **Engenheiro ambiental:** Avalia os impactos ambientais das enchentes e sugere medidas sustentáveis para restaurar a biodiversidade e a qualidade ambiental das áreas afetadas.
+  - **Agrônomo:** Recomenda práticas de manejo do solo e plantio de vegetação nativa para prevenir erosão e restaurar a fertilidade do solo.
+
+- **Exemplo 5: Reconstrução de Infraestrutura Urbana**
+
+  **Descrição:** Coordenação da reconstrução de infraestrutura urbana danificada por desastres naturais, com foco em resiliência e sustentabilidade.
+
+  **Estrutura e Detalhamento:**
+  - **Engenheiro civil:** Coordena a reconstrução de pontes e estradas danificadas, garantindo a resiliência a enchentes futuras.
+  - **Engenheiro ambiental:** Propõe soluções para melhorar a gestão da água urbana, incluindo sistemas de retenção de água pluvial.
+  - **Agrônomo:** Colabora com técnicas de manejo de solos urbanos afetados, promovendo práticas que reduzem o escoamento superficial e melhoram a permeabilidade do solo.
+
     
 
 ## 3.3. Registro Flexível e Unificado
