@@ -188,7 +188,7 @@ Os próximos passos incluem a fase de desenvolvimento inicial da plataforma, seg
 
 # 7. Utilidades Extras (opcional)
 
-Profissionais do CREA enfrentam desafios na comunicação com clientes e na falta de um marketplace especializado. Implementar utilidades adicionais em uma plataforma dedicada pode trazer vantagens práticas:
+Profissionais do CREA enfrentam desafios na comunicação com clientes e na falta de um marketplace especializado. Implementar utilidades adicionais em uma plataforma dedicada pode trazer vantagens práticas.
 
 ## Marketplace Especializado
 
@@ -202,7 +202,7 @@ Profissionais do CREA enfrentam desafios na comunicação com clientes e na falt
 
 1. **Eficiência Operacional:** Simplificação de práticas como cálculos fiscais, gestão de projetos e consultoria técnica em um ambiente digital único.
 
-2. **Agilidade na Tomada de Decisões:** Acesso imediato a informações cruciais para decisões rápidas e informadas.
+2. **Agilidade na Tomada de Decisões:** Acesso imediato a informações cruciais para decisões rápidas e fundamentadas.
 
 3. **Suporte Estratégico:** Foco em estratégias de crescimento e desenvolvimento de negócios com gestão simplificada de projetos.
 
