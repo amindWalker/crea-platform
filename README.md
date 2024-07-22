@@ -186,6 +186,28 @@ Este projeto visa não apenas unificar e modernizar o registro dos profissionais
 
 Os próximos passos incluem a fase de desenvolvimento inicial da plataforma, seguida de testes rigorosos e lançamento gradual em todas as regiões do Brasil. Um cronograma detalhado será elaborado para orientar a implementação, garantindo que todas as etapas sejam concluídas dentro dos prazos estabelecidos.
 
+# 7. Utilidades Extras (opcional)
+
+Profissionais do CREA enfrentam desafios na comunicação com clientes e na falta de um marketplace especializado. Implementar utilidades adicionais em uma plataforma dedicada pode trazer vantagens práticas:
+
+## Marketplace Especializado
+
+1. **Facilitação na Contratação de Serviços:** Conexão direta entre contratantes e profissionais, simplificando a busca por especialistas qualificados.
+
+2. **Aumento da Visibilidade Profissional:** Destaque das habilidades e experiências dos profissionais, atraindo mais oportunidades de trabalho.
+
+3. **Transparência e Segurança:** Sistemas de avaliação para construir reputações baseadas em feedback de clientes.
+
+## Ferramenta de Gestão Integrada
+
+1. **Eficiência Operacional:** Simplificação de práticas como cálculos fiscais, gestão de projetos e consultoria técnica em um ambiente digital único.
+
+2. **Agilidade na Tomada de Decisões:** Acesso imediato a informações cruciais para decisões rápidas e informadas.
+
+3. **Suporte Estratégico:** Foco em estratégias de crescimento e desenvolvimento de negócios com gestão simplificada de projetos.
+
+Essas utilidades extras promovem eficiência e segurança nas transações técnicas, fortalecendo a posição dos profissionais do CREA no mercado.
+
 ---
 
 Licença MIT

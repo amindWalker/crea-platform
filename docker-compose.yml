@@ -1,0 +1,31 @@
+services:
+  backend:
+    image: rust:latest
+    container_name: rust_backend
+    working_dir: /usr/src/app
+    volumes:
+      - ./backend:/usr/src/app
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    command: >
+      sh -c "cargo install --path . && rust_backend"
+    environment:
+      DATABASE_URL: "postgres://postgres:password@db:5432/crea"
+      RUST_LOG: "debug"
+
+  db:
+    image: postgres:13
+    container_name: postgres_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: crea
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+volumes:
+  postgres_data:
