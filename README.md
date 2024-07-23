@@ -30,15 +30,21 @@ Para atingir os objetivos mencionados, o projeto será dividido nas seguintes fa
 ## 3.2. Unificação das Interseções de Competências do CREA
 
 > [!IMPORTANT]
-> Atualmente, as "pontes" entre diferentes áreas de atuação no CREA são geralmente tratadas através da emissão de ARTs (Anotações de Responsabilidade Técnica) específicas para cada atividade realizada. Essas ARTs são emitidas pelos profissionais do CREA responsáveis pela execução de serviços técnicos, e cada profissional deve possuir registro específico na área correspondente à atividade que está sendo realizada.
-> 
-> Para profissionais que desejam trabalhar fora da área de sua graduação em diferentes estados, a abordagem atual envolve solicitar o registro específico (ou "visto") no CREA da região onde o serviço será realizado. Isso é necessário porque cada CREA regional possui suas próprias regulamentações e normativas específicas, e o profissional deve estar registrado na área correspondente à atividade técnica que será exercida naquela região.
+> Sistema de Reconhecimento de Competências
 >
-> Para unificar e facilitar a atuação de profissionais em áreas interdisciplinares ou fora de suas áreas de graduação, é possível implementar um sistema que reconheça e valide as competências e habilidades que são comuns entre diferentes áreas profissionais. 
+> #### Desafio Atual
+>
+> Atualmente, as competências interdisciplinares no CREA são tratadas por meio de Anotações de Responsabilidade Técnica (ARTs) específicas para cada atividade, emitidas regionalmente, o famoso visto. Isso exige que profissionais obtenham registros específicos em cada estado onde desejam atuar fora de suas áreas de graduação. Cada CREA regional tem suas próprias normativas, o que torna o processo ainda mais complexo e demorado.
 
-## 3.2.1. Reconhecimento de Competências Interdisciplinares
+#### Nossa Proposta
 
-Identificação e certificação das competências interdisciplinares através de um sistema integrado de validação. Isso permitirá que profissionais com competências em áreas interseccionais (mesma competência, mas graduações diferentes) obtenham uma certificação que os habilite a exercer atividades nessas áreas sem necessidade de múltiplos registros.
+Para resolver esses desafios, propomos a implementação de um sistema integrado de reconhecimento e validação de competências interdisciplinares baseado na nova TOS Nacional (Tabela de Obras e Serviços Nacional). Esse sistema permitirá que profissionais com habilidades em áreas interseccionais recebam uma certificação única, reconhecida nacionalmente pelo CREA. Isso significa que poderão exercer atividades nessas áreas sem a necessidade de múltiplos registros.
+
+### Benefícios
+
+- **Redução de Burocracia:** Simplificação do processo para profissionais que desejam trabalhar em diferentes estados.
+- **Eficiência Operacional:** Integração de competências em uma plataforma centralizada, promovendo maior eficiência e agilidade.
+- **Flexibilidade Profissional:** Permitir que engenheiros e agrônomos explorem novas áreas de atuação sem barreiras regulatórias excessivas.
 
 ### Campos Obrigatórios para Anotação de Responsabilidade Técnica (ART)
 

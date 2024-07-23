@@ -12,6 +12,28 @@ A partir do momento que tivermos acesso aos dados de todos os CREAs do país, ad
 ## Normalização de Dados e Respeito à Autonomia Estadual
 É essencial normalizar os dados respeitando a autonomia dos diferentes estados. Regras serão implementadas conforme os regulamentos específicos do CREA, garantindo conformidade sem comprometer a eficiência do sistema. Além disso, campos extras opcionais podem ser adicionados à ART conforme critério utilizados por cada CREA.
 
+## Sistema de Reconhecimento de Competências
+
+> [!IMPORTANT]
+>
+> #### Desafio Atual
+>
+> Atualmente, as competências interdisciplinares no CREA são tratadas por meio de Anotações de Responsabilidade Técnica (ARTs) específicas para cada atividade, emitidas regionalmente, o famoso visto. Isso exige que profissionais obtenham registros específicos em cada estado onde desejam atuar fora de suas áreas de graduação. Cada CREA regional tem suas próprias normativas, o que torna o processo ainda mais complexo e demorado.
+
+#### Nossa Proposta
+
+Para resolver esses desafios, propomos a implementação de um sistema integrado de reconhecimento e validação de competências interdisciplinares baseado na nova TOS Nacional (Tabela de Obras e Serviços Nacional). Esse sistema permitirá que profissionais com habilidades em áreas interseccionais recebam uma certificação única, reconhecida nacionalmente pelo CREA. Isso significa que poderão exercer atividades nessas áreas sem a necessidade de múltiplos registros.
+
+### Benefícios
+
+- **Redução de Burocracia:** Simplificação do processo para profissionais que desejam trabalhar em diferentes estados.
+- **Eficiência Operacional:** Integração de competências em uma plataforma centralizada, promovendo maior eficiência e agilidade.
+- **Flexibilidade Profissional:** Permitir que engenheiros e agrônomos explorem novas áreas de atuação sem barreiras regulatórias excessivas.
+
+### Implementação
+
+Estamos atualmente desenvolvendo o sistema de validação de competências, garantindo que seja robusto, seguro e em conformidade com todas as normativas do CREA e legislações vigentes. Nosso objetivo é promover uma transição suave e benéfica para todos os profissionais registrados, contribuindo para um ambiente de trabalho mais dinâmico e colaborativo.
+
 ## Considerações sobre Segurança e Conformidade
 Dado o ambiente regulatório do CREA, é fundamental consultar um especialista em segurança da informação e sistemas do CREA para mitigar potenciais conflitos e garantir conformidade durante a implementação das soluções.
 
