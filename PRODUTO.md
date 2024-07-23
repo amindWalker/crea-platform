@@ -1,3 +1,5 @@
+# Estratégia do Produto
+
 ## Solução Integrada para Padronização de ARTs
 Nossa estratégia combina duas abordagens distintas em duas etapas, adaptando-se às circunstâncias atuais e futuras:
 
