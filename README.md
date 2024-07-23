@@ -40,7 +40,7 @@ Para atingir os objetivos mencionados, o projeto será dividido nas seguintes fa
 
 Identificação e certificação das competências interdisciplinares através de um sistema integrado de validação. Isso permitirá que profissionais com competências em áreas interseccionais (mesma competência, mas graduações diferentes) obtenham uma certificação que os habilite a exercer atividades nessas áreas sem necessidade de múltiplos registros.
 
-- **Campos Obrigatórios para Anotação de Responsabilidade Técnica (ART)**
+### Campos Obrigatórios para Anotação de Responsabilidade Técnica (ART)
 
 Para garantir consistência e conformidade nas Anotações de Responsabilidade Técnica (ARTs) emitidas pelos profissionais registrados, os seguintes campos serão propostos:
 
@@ -48,7 +48,7 @@ Para garantir consistência e conformidade nas Anotações de Responsabilidade T
   <tr>
     <td valign="top" width="50%">
 
-1. **Formulário Principal da ART**
+1. **Exemplo de Formulário Principal da ART**
    
     - **Dados do Profissional**
       - Nome completo
@@ -86,44 +86,76 @@ Para garantir consistência e conformidade nas Anotações de Responsabilidade T
 
   <td valign="top" width="50%">
 
-2. **Formulário Específico por Área Profissional**
+2. **Exemplo de Formulário Específico por Área Profissional**
+    
+    **Área Profissional - Engenharia Civil**
 
-    **Exemplo 1:**
-    - **Competência: Gestão de Projetos**
-      - **Engenharia Civil:**
-        - Planejamento e execução de obras civis, gerenciamento de cronogramas, gestão de recursos humanos e materiais.
-      - **Engenharia Elétrica:**
-        - Gestão de projetos de instalações elétricas industriais e prediais, coordenação de equipes técnicas, elaboração de planos de manutenção.
-      - **Engenharia de Produção:**
-        - Gestão de projetos industriais, otimização de processos produtivos, controle de qualidade e garantia da produção.
+    **1. Dados do Projeto**
 
-    **Exemplo 2:**
-    - **Competência: Análise de Dados e Modelagem Estatística**
-      - **Engenharia Elétrica:**
-        - Análise de dados de consumo elétrico, modelagem de sistemas de distribuição de energia, previsão de demanda energética.
-      - **Engenharia Ambiental:**
-        - Análise de dados ambientais para avaliação de impacto, modelagem de dispersão de poluentes, gestão de recursos hídricos.
-      - **Engenharia de Computação:**
-        - Análise de big data, desenvolvimento de algoritmos para aprendizado de máquina, modelagem estatística avançada.
+    - Tipo de obra: (ex: Edificação, Ponte, Estrada)
+    - Descrição detalhada do projeto:
+      - Incluir especificações técnicas como resistência do concreto, tipo de fundação, etc.
 
-    **Exemplo 3:**
-    - **Competência: Sustentabilidade Ambiental**
-      - **Engenharia Ambiental:**
-        - Avaliação de impacto ambiental, elaboração de estudos de impacto ambiental (EIA/RIMA), planejamento e gestão de áreas protegidas.
-      - **Engenharia Civil:**
-        - Projeto e execução de edifícios sustentáveis, uso de materiais de construção ecoeficientes, gestão de resíduos de construção civil.
-      - **Agronomia:**
-        - Práticas agrícolas sustentáveis, manejo integrado de pragas e doenças, conservação de solos e água.
+    **2. Materiais Utilizados**
 
-    **Exemplo 4:**
-    - **Competência: Gestão de Qualidade e Normatização**
-      - **Engenharia de Produção:**
-        - Implementação de sistemas de gestão da qualidade (ISO 9001), controle estatístico de processos (CEP), auditorias internas.
-      - **Engenharia Química:**
-        - Controle de qualidade em processos industriais químicos, certificação de produtos conforme normas técnicas, gestão ambiental.
-      - **Administração de Empresas:**
-        - Gestão da qualidade em serviços, aplicação de ferramentas de melhoria contínua (Kaizen, Lean Six Sigma), auditoria de processos.
+    - Listagem dos materiais principais:
+      - Quantidade, tipo, e normas técnicas aplicáveis.
 
+    **3. Normas e Regulamentações Locais**
+
+    - Normas específicas da região onde o projeto será executado:
+      - Exigências municipais ou estaduais que devem ser seguidas.
+
+    **4. Responsabilidades e Assinatura**
+
+    - Nome do engenheiro responsável pelo projeto:
+      - Assinatura digital ou eletrônica.
+
+    **Área Profissional - Engenharia Elétrica**
+
+    **1. Especificações Elétricas**
+
+    - Potência requerida:
+      - Detalhes dos circuitos elétricos e equipamentos.
+
+    **2. Segurança Elétrica**
+
+    - Medidas de segurança adotadas:
+      - Normas de proteção contra choque elétrico, SPDA, etc.
+
+    **3. Compatibilidade eletromagnética**
+
+    - Garantia de conformidade com normas de compatibilidade:
+      - Detalhes sobre interferências eletromagnéticas.
+
+    **4. Certificações e Documentação**
+
+    - Documentação necessária para aprovação:
+      - Certificados de conformidade, relatórios técnicos, etc.
+
+    **Área Profissional - Engenharia Ambiental**
+
+    **1. Avaliação Ambiental Preliminar**
+
+    - Impactos ambientais esperados:
+      - Estratégias de mitigação e compensação.
+
+    **2. Legislação Ambiental Aplicável**
+
+    - Normas ambientais locais:
+      - Restrições e licenças necessárias.
+
+    **3. Monitoramento Ambiental**
+
+    - Plano de monitoramento durante a execução:
+      - Métodos de amostragem, parâmetros monitorados.
+
+    **4. Certificação Ambiental**
+
+    - Certificados necessários para conformidade:
+      - Declarações de impacto ambiental, relatórios de auditoria.
+
+    
   </td>
   </tr>
 </table>
@@ -132,58 +164,56 @@ Para garantir consistência e conformidade nas Anotações de Responsabilidade T
 > Além do formulário principal com os dados obrigatórios, serão criados campos específicos nos formulários para cada área profissional (Engenharia Civil, Engenharia Elétrica, Engenharia Ambiental, etc.). Os detalhes dos campos específicos serão implementados de forma a garantir consistência e permitir que diferentes formações possam exercer uma mesma função caso o curso possua competências compatíveis.
 > ### Observações:
 >
-> - Cada um desses formulários específicos conteria campos adicionais que são relevantes para a área de atuação específica, como normas técnicas, tipos de materiais utilizados, tecnologias específicas e exigências regionais.
-> - A ideia é que esses formulários complementem o formulário principal da ART (Anotação de Responsabilidade Técnica), permitindo que profissionais de diferentes áreas possam detalhar as informações necessárias para cada tipo de projeto ou atividade técnica específica.
-> - Desde que essas experiências e títulos adicionais estejam de acordo com as regras do sistema CONFEA/CREA para adicionar atribuições a esse profissional, permitindo-o exercer atividades além daquelas da profissão principal.
+> - Cada formulário específico será adaptado às necessidades da respectiva área profissional, incorporando campos que são cruciais para a execução e documentação de projetos específicos.
+> - Esses formulários complementam o formulário principal da ART, garantindo que cada área profissional tenha a capacidade de detalhar informações técnicas relevantes para suas atividades.
+> - A implementação desses formulários visa permitir que profissionais de diferentes formações possam exercer funções além de suas especializações primárias, desde que sejam qualificados e certificados conforme as normas do sistema CONFEA/CREA.
 
-### Exemplos na Prática:
+## Exemplos na Prática:
 
-- **Exemplo 1: Coordenação de Projetos de Infraestrutura Elétrica**
+  ### Exemplo 1: Coordenação de Projetos de Infraestrutura Elétrica
 
-  **Descrição:** Um engenheiro civil com experiência em planejamento e gestão de obras pode aplicar suas competências na coordenação de projetos de infraestrutura elétrica, integrando diferentes sistemas de engenharia em um projeto de construção complexo.
+  - **Descrição:** Um engenheiro civil coordena a execução de projetos de infraestrutura elétrica em construções complexas.
 
-  **Estrutura e Detalhamento:**
-  - **Engenheiro civil:** Lidera o planejamento e a execução de obras de infraestrutura elétrica, coordenando equipes e garantindo a integração de diferentes sistemas de engenharia.
-  - **Engenheiro elétrico:** Desenvolve os projetos elétricos, especifica materiais e equipamentos, e supervisiona a instalação e testes dos sistemas elétricos.
-  - **Engenheiro de segurança:** Assegura que todas as etapas do projeto atendam às normas de segurança e saúde ocupacional.
+    **Equipe:**
+    - **Engenheiro civil:** Planeja e integra os sistemas de engenharia.
+    - **Engenheiro elétrico:** Desenvolve os projetos elétricos.
+    - **Engenheiro de segurança:** Garante a conformidade com normas de segurança.
 
-- **Exemplo 2: Projetos Sustentáveis de Edificações**
+  ### Exemplo 2: Projetos Sustentáveis de Edificações
 
-  **Descrição:** Um engenheiro ambiental especializado em avaliação de impacto ambiental pode trabalhar em conjunto com engenheiros civis na elaboração de projetos sustentáveis de edificações, garantindo que os impactos ambientais sejam minimizados desde a fase de concepção até a execução.
+  - **Descrição:** Um engenheiro ambiental especializado em impacto ambiental colabora com engenheiros civis para desenvolver edificações sustentáveis.
 
-  **Estrutura e Detalhamento:**
-  - **Engenheiro ambiental:** Realiza estudos de impacto ambiental, propõe medidas de mitigação e garante a conformidade com as legislações ambientais.
-  - **Engenheiro civil:** Integra as soluções ambientais no projeto estrutural e de construção, otimizando o uso de recursos e materiais sustentáveis.
-  - **Arquiteto:** Desenha os projetos arquitetônicos com foco em eficiência energética e sustentabilidade, incorporando as recomendações dos engenheiros.
+    **Equipe:**
+    - **Engenheiro ambiental:** Realiza estudos e propõe medidas ambientais.
+    - **Engenheiro civil:** Incorpora soluções sustentáveis no projeto.
+    - **Arquiteto:** Projeta com foco em eficiência energética e sustentabilidade.
 
-- **Exemplo 3: Gestão de Processos Industriais em Indústria Química**
+  ### Exemplo 3: Gestão de Processos Industriais em Indústria Química
 
-  **Descrição:** Um engenheiro de produção com habilidades em controle de qualidade pode atuar na gestão de processos industriais em uma indústria química, aplicando normas de segurança e qualidade específicas do setor, assim como um engenheiro químico faria.
+  - **Descrição:** Um engenheiro de produção gerencia processos industriais em uma indústria química, aplicando normas de qualidade e segurança.
 
-  **Estrutura e Detalhamento:**
-  - **Engenheiro de produção:** Gerencia os processos produtivos, assegura a eficiência operacional e implementa sistemas de controle de qualidade.
-  - **Engenheiro químico:** Supervisiona a produção de produtos químicos, garantindo que os processos cumpram as especificações técnicas e regulatórias.
-  - **Engenheiro de segurança:** Avalia os riscos associados aos processos químicos e implementa medidas de segurança para proteger os trabalhadores e o meio ambiente.
+    **Equipe:**
+    - **Engenheiro de produção:** Gerencia a produção e qualidade.
+    - **Engenheiro químico:** Supervisiona processos conforme normativas.
+    - **Engenheiro de segurança:** Avalia riscos e implementa medidas de segurança.
 
-- **Exemplo 4: Recuperação de Margens de Rios**
+  ### Exemplo 4: Recuperação de Margens de Rios
 
-  **Descrição:** Recuperação de áreas afetadas por enchentes, estabilizando as margens dos rios e restaurando a biodiversidade.
+  - **Descrição:** Recuperação de áreas afetadas por enchentes, estabilizando margens e restaurando a biodiversidade.
 
-  **Estrutura e Detalhamento:**
-  - **Engenheiro civil:** Lidera a estabilização das margens de rios após enchentes, implementando obras de contenção para prevenir futuras inundações.
-  - **Engenheiro ambiental:** Avalia os impactos ambientais das enchentes e sugere medidas sustentáveis para restaurar a biodiversidade e a qualidade ambiental das áreas afetadas.
-  - **Agrônomo:** Recomenda práticas de manejo do solo e plantio de vegetação nativa para prevenir erosão e restaurar a fertilidade do solo.
+    **Equipe:**
+    - **Engenheiro civil:** Lidera a estabilização das margens e obras de contenção.
+    - **Engenheiro ambiental:** Avalia impactos e propõe medidas sustentáveis.
+    - **Agrônomo:** Implementa práticas de manejo e plantio para proteção do solo.
 
-- **Exemplo 5: Reconstrução de Infraestrutura Urbana**
+  ### Exemplo 5: Reconstrução de Infraestrutura Urbana
 
-  **Descrição:** Coordenação da reconstrução de infraestrutura urbana danificada por desastres naturais, com foco em resiliência e sustentabilidade.
+  - **Descrição:** Coordenação da reconstrução urbana após desastres naturais, focando em resiliência e sustentabilidade.
 
-  **Estrutura e Detalhamento:**
-  - **Engenheiro civil:** Coordena a reconstrução de pontes e estradas danificadas, garantindo a resiliência a enchentes futuras.
-  - **Engenheiro ambiental:** Propõe soluções para melhorar a gestão da água urbana, incluindo sistemas de retenção de água pluvial.
-  - **Agrônomo:** Colabora com técnicas de manejo de solos urbanos afetados, promovendo práticas que reduzem o escoamento superficial e melhoram a permeabilidade do solo.
-
-    
+    **Equipe:**
+    - **Engenheiro civil:** Reconstrói pontes e estradas para resiliência a enchentes.
+    - **Engenheiro ambiental:** Melhora gestão da água e sistemas pluviais urbanos.
+    - **Agrônomo:** Aplica técnicas de manejo para melhorar a permeabilidade do solo.
 
 ## 3.3. Registro Flexível e Unificado
 
