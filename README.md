@@ -1,4 +1,4 @@
-# Projeto de Implementação de Plataforma Unificada do CREA
+# Plataforma Unificada do CREA
 
 # 1. Introdução
 
