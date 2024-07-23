@@ -11,7 +11,7 @@
 Para resolver esses desafios, propomos a implementação de um sistema integrado de reconhecimento e validação de competências interdisciplinares baseado na nova TOS Nacional (Tabela de Obras e Serviços Nacional). Esse sistema permitirá que profissionais com habilidades em áreas interseccionais recebam uma certificação única, reconhecida nacionalmente pelo CREA. Isso significa que poderão exercer atividades nessas áreas sem a necessidade de múltiplos registros.
 
 ## Solução Integrada para Padronização de ARTs
-Nossa estratégia combina duas abordagens distintas em duas etapas, adaptando-se às circunstâncias atuais e futuras
+
 
 ### Benefícios
 
@@ -42,6 +42,9 @@ Com o crescimento na quantidade de usuários na plataforma, a solução mais evi
 2. **Aumento da Visibilidade Profissional:** Destaque das habilidades e experiências dos profissionais, atraindo mais oportunidades de trabalho.
 
 3. **Transparência e Segurança:** Sistemas de avaliação para construir reputações baseadas em feedback de clientes.
+
+## Etapas de Implementação
+Nossa estratégia combina duas abordagens distintas em duas etapas, adaptando-se às circunstâncias atuais e futuras
 
 ### Etapa 1: Implementação de Tecnologia de Ponta
 Devido ao acesso limitado aos dados do CREA atualmente, adotaremos uma abordagem semelhante à utilizada por grandes empresas de tecnologia como Discord, Microsoft, Google e Amazon. Por exemplo, o Discord utiliza a linguagem de programação Rust para gerenciar eficientemente altos volumes de tráfego, minimizando a utilização de recursos como latência, CPU e memória, economizando muito dinheiro em servidores. Utilizaremos Rust para analisar e transformar formulários de ART antigos em modelos padronizados. Para alcançar máxima eficiência, utilizaremos um serviço multiprocessado e paralelizado inspirado nas práticas das Big Tech.
