@@ -1,4 +1,10 @@
+<div align="center">
+
 # Plataforma Unificada do CREA
+
+### [Visão Geral do Produto](https://github.com/amindWalker/crea-platform/blob/main/PRODUTO.md)
+
+</div>
 
 # 1. Introdução
 
